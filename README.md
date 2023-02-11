@@ -4,7 +4,7 @@ This project is about some pokemons that have a jumping animation this project i
 
 # Screen Project
 
-![project screen](img/screen.png)
+![project screen](img/screenAct.png)
 
 # HTML
 
