@@ -60,7 +60,7 @@ This project is about some pokemons that have a jumping animation this project i
 
 # CSS
 
-'''css
+```css
   body{
     margin: 0;
     padding: 0;
@@ -134,4 +134,4 @@ This project is about some pokemons that have a jumping animation this project i
 }
 
 
-'''
+```
