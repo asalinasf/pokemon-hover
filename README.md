@@ -6,6 +6,12 @@ This project is about some pokemons that have a jumping animation this project i
 
 ![project screen](img/screenAct.png)
 
+```sh
+git clone https://github.com/asalinasf/pokemon-hover/
+cd pokemon-hover
+open in your browse
+```
+
 # HTML
 
 ```html
